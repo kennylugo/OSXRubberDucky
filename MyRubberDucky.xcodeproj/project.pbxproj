@@ -1,0 +1,506 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		250F68FF1D3939B900A17885 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F68FE1D3939B900A17885 /* AppDelegate.swift */; };
+		250F69011D3939B900A17885 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 250F69001D3939B900A17885 /* Assets.xcassets */; };
+		250F69041D3939B900A17885 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 250F69021D3939B900A17885 /* MainMenu.xib */; };
+		250F690F1D3939B900A17885 /* MyRubberDuckyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F690E1D3939B900A17885 /* MyRubberDuckyTests.swift */; };
+		250F691A1D3939B900A17885 /* MyRubberDuckyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F69191D3939B900A17885 /* MyRubberDuckyUITests.swift */; };
+		250F69281D3939DC00A17885 /* EventMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F69271D3939DC00A17885 /* EventMonitor.swift */; };
+		250F692A1D393A5B00A17885 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F69291D393A5B00A17885 /* ViewController.swift */; };
+		250F692C1D393A7400A17885 /* Mainxib.xib in Resources */ = {isa = PBXBuildFile; fileRef = 250F692B1D393A7400A17885 /* Mainxib.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		250F690B1D3939B900A17885 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 250F68F31D3939B900A17885 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 250F68FA1D3939B900A17885;
+			remoteInfo = MyRubberDucky;
+		};
+		250F69161D3939B900A17885 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 250F68F31D3939B900A17885 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 250F68FA1D3939B900A17885;
+			remoteInfo = MyRubberDucky;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		250F68FB1D3939B900A17885 /* MyRubberDucky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyRubberDucky.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		250F68FE1D3939B900A17885 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		250F69001D3939B900A17885 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		250F69031D3939B900A17885 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		250F69051D3939B900A17885 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		250F690A1D3939B900A17885 /* MyRubberDuckyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyRubberDuckyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		250F690E1D3939B900A17885 /* MyRubberDuckyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRubberDuckyTests.swift; sourceTree = "<group>"; };
+		250F69101D3939B900A17885 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		250F69151D3939B900A17885 /* MyRubberDuckyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyRubberDuckyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		250F69191D3939B900A17885 /* MyRubberDuckyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRubberDuckyUITests.swift; sourceTree = "<group>"; };
+		250F691B1D3939B900A17885 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		250F69271D3939DC00A17885 /* EventMonitor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventMonitor.swift; sourceTree = "<group>"; };
+		250F69291D393A5B00A17885 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		250F692B1D393A7400A17885 /* Mainxib.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Mainxib.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		250F68F81D3939B900A17885 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		250F69071D3939B900A17885 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		250F69121D3939B900A17885 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		250F68F21D3939B900A17885 = {
+			isa = PBXGroup;
+			children = (
+				250F68FD1D3939B900A17885 /* MyRubberDucky */,
+				250F690D1D3939B900A17885 /* MyRubberDuckyTests */,
+				250F69181D3939B900A17885 /* MyRubberDuckyUITests */,
+				250F68FC1D3939B900A17885 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		250F68FC1D3939B900A17885 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				250F68FB1D3939B900A17885 /* MyRubberDucky.app */,
+				250F690A1D3939B900A17885 /* MyRubberDuckyTests.xctest */,
+				250F69151D3939B900A17885 /* MyRubberDuckyUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		250F68FD1D3939B900A17885 /* MyRubberDucky */ = {
+			isa = PBXGroup;
+			children = (
+				250F68FE1D3939B900A17885 /* AppDelegate.swift */,
+				250F69291D393A5B00A17885 /* ViewController.swift */,
+				250F69271D3939DC00A17885 /* EventMonitor.swift */,
+				250F69001D3939B900A17885 /* Assets.xcassets */,
+				250F692B1D393A7400A17885 /* Mainxib.xib */,
+				250F69021D3939B900A17885 /* MainMenu.xib */,
+				250F69051D3939B900A17885 /* Info.plist */,
+			);
+			path = MyRubberDucky;
+			sourceTree = "<group>";
+		};
+		250F690D1D3939B900A17885 /* MyRubberDuckyTests */ = {
+			isa = PBXGroup;
+			children = (
+				250F690E1D3939B900A17885 /* MyRubberDuckyTests.swift */,
+				250F69101D3939B900A17885 /* Info.plist */,
+			);
+			path = MyRubberDuckyTests;
+			sourceTree = "<group>";
+		};
+		250F69181D3939B900A17885 /* MyRubberDuckyUITests */ = {
+			isa = PBXGroup;
+			children = (
+				250F69191D3939B900A17885 /* MyRubberDuckyUITests.swift */,
+				250F691B1D3939B900A17885 /* Info.plist */,
+			);
+			path = MyRubberDuckyUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		250F68FA1D3939B900A17885 /* MyRubberDucky */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 250F691E1D3939B900A17885 /* Build configuration list for PBXNativeTarget "MyRubberDucky" */;
+			buildPhases = (
+				250F68F71D3939B900A17885 /* Sources */,
+				250F68F81D3939B900A17885 /* Frameworks */,
+				250F68F91D3939B900A17885 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyRubberDucky;
+			productName = MyRubberDucky;
+			productReference = 250F68FB1D3939B900A17885 /* MyRubberDucky.app */;
+			productType = "com.apple.product-type.application";
+		};
+		250F69091D3939B900A17885 /* MyRubberDuckyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 250F69211D3939B900A17885 /* Build configuration list for PBXNativeTarget "MyRubberDuckyTests" */;
+			buildPhases = (
+				250F69061D3939B900A17885 /* Sources */,
+				250F69071D3939B900A17885 /* Frameworks */,
+				250F69081D3939B900A17885 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				250F690C1D3939B900A17885 /* PBXTargetDependency */,
+			);
+			name = MyRubberDuckyTests;
+			productName = MyRubberDuckyTests;
+			productReference = 250F690A1D3939B900A17885 /* MyRubberDuckyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		250F69141D3939B900A17885 /* MyRubberDuckyUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 250F69241D3939B900A17885 /* Build configuration list for PBXNativeTarget "MyRubberDuckyUITests" */;
+			buildPhases = (
+				250F69111D3939B900A17885 /* Sources */,
+				250F69121D3939B900A17885 /* Frameworks */,
+				250F69131D3939B900A17885 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				250F69171D3939B900A17885 /* PBXTargetDependency */,
+			);
+			name = MyRubberDuckyUITests;
+			productName = MyRubberDuckyUITests;
+			productReference = 250F69151D3939B900A17885 /* MyRubberDuckyUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		250F68F31D3939B900A17885 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Kenny Batista";
+				TargetAttributes = {
+					250F68FA1D3939B900A17885 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					250F69091D3939B900A17885 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 250F68FA1D3939B900A17885;
+					};
+					250F69141D3939B900A17885 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 250F68FA1D3939B900A17885;
+					};
+				};
+			};
+			buildConfigurationList = 250F68F61D3939B900A17885 /* Build configuration list for PBXProject "MyRubberDucky" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 250F68F21D3939B900A17885;
+			productRefGroup = 250F68FC1D3939B900A17885 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				250F68FA1D3939B900A17885 /* MyRubberDucky */,
+				250F69091D3939B900A17885 /* MyRubberDuckyTests */,
+				250F69141D3939B900A17885 /* MyRubberDuckyUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		250F68F91D3939B900A17885 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				250F692C1D393A7400A17885 /* Mainxib.xib in Resources */,
+				250F69011D3939B900A17885 /* Assets.xcassets in Resources */,
+				250F69041D3939B900A17885 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		250F69081D3939B900A17885 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		250F69131D3939B900A17885 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		250F68F71D3939B900A17885 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				250F692A1D393A5B00A17885 /* ViewController.swift in Sources */,
+				250F68FF1D3939B900A17885 /* AppDelegate.swift in Sources */,
+				250F69281D3939DC00A17885 /* EventMonitor.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		250F69061D3939B900A17885 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				250F690F1D3939B900A17885 /* MyRubberDuckyTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		250F69111D3939B900A17885 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				250F691A1D3939B900A17885 /* MyRubberDuckyUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		250F690C1D3939B900A17885 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 250F68FA1D3939B900A17885 /* MyRubberDucky */;
+			targetProxy = 250F690B1D3939B900A17885 /* PBXContainerItemProxy */;
+		};
+		250F69171D3939B900A17885 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 250F68FA1D3939B900A17885 /* MyRubberDucky */;
+			targetProxy = 250F69161D3939B900A17885 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		250F69021D3939B900A17885 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				250F69031D3939B900A17885 /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		250F691C1D3939B900A17885 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		250F691D1D3939B900A17885 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		250F691F1D3939B900A17885 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = MyRubberDucky/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kennybatista.MyRubberDucky;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		250F69201D3939B900A17885 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = MyRubberDucky/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kennybatista.MyRubberDucky;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		250F69221D3939B900A17885 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = MyRubberDuckyTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kennybatista.MyRubberDuckyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyRubberDucky.app/Contents/MacOS/MyRubberDucky";
+			};
+			name = Debug;
+		};
+		250F69231D3939B900A17885 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = MyRubberDuckyTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kennybatista.MyRubberDuckyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyRubberDucky.app/Contents/MacOS/MyRubberDucky";
+			};
+			name = Release;
+		};
+		250F69251D3939B900A17885 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = MyRubberDuckyUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kennybatista.MyRubberDuckyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = MyRubberDucky;
+			};
+			name = Debug;
+		};
+		250F69261D3939B900A17885 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = MyRubberDuckyUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kennybatista.MyRubberDuckyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = MyRubberDucky;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		250F68F61D3939B900A17885 /* Build configuration list for PBXProject "MyRubberDucky" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				250F691C1D3939B900A17885 /* Debug */,
+				250F691D1D3939B900A17885 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		250F691E1D3939B900A17885 /* Build configuration list for PBXNativeTarget "MyRubberDucky" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				250F691F1D3939B900A17885 /* Debug */,
+				250F69201D3939B900A17885 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		250F69211D3939B900A17885 /* Build configuration list for PBXNativeTarget "MyRubberDuckyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				250F69221D3939B900A17885 /* Debug */,
+				250F69231D3939B900A17885 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		250F69241D3939B900A17885 /* Build configuration list for PBXNativeTarget "MyRubberDuckyUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				250F69251D3939B900A17885 /* Debug */,
+				250F69261D3939B900A17885 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 250F68F31D3939B900A17885 /* Project object */;
+}
