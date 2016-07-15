@@ -38,8 +38,7 @@ Great question! Github or Amazon hosts a wide selection of affordable ducks that
 ![screenshot](https://github.com/kennybatista/OSXRubberDucky/blob/master/image.png)
 
 
-#To work on :
-| Topics Being Covered |
+| To work on |
 | -------------------- | 
 | 1.icon|we've got to fix the icon to be displayed in the status bar instead of a black cube |
 
