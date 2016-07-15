@@ -15,13 +15,13 @@ Original Credits: ~Andy from lists.ethernal.org
 #FAQ
 
 
-If duck's are so smart, why don't we just let the ducks do all the work?
+####If duck's are so smart, why don't we just let the ducks do all the work?
 It would be wonderful if this were true, but the fact is that most duck's prefer to take a mentoring roll. There are a few ducks however that do choose to code, but these are the duck's that nobody hears about because they are selected for secret government projects which are highly classified in nature.
 
-Where can I learn more about rubber duck debugging?
+####Where can I learn more about rubber duck debugging?
 More information can be found here : https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
-Where can I hire my own duck?
+####Where can I hire my own duck?
 Great question! Github or Amazon hosts a wide selection of affordable ducks that have graduated with a technical degree from some of the world's leading universities.
 
 
