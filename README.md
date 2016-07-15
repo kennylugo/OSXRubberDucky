@@ -10,7 +10,7 @@ Step 4) At some point you will tell the duck what you are doing next and then re
 
 Note: In a pinch a coworker might be able to substitute for the duck, however, it is often prefered to confide mistakes to the duck instead of your coworker.
 
-Original Credit: ~Andy from lists.ethernal.org
+Original Credits: ~Andy from lists.ethernal.org
 
 #FAQ
 
