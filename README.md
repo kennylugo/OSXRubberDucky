@@ -14,9 +14,13 @@ Original Credits: ~Andy from lists.ethernal.org
 
 #Serious Instructions:
 Step 1) Download Rubber Ducky
+
 Step 2) Open the blue project file
+
 Step 3) Press Command + R to run
+
 Step 4) Click on the icon in the status bar
+
 
 #FAQ
 
