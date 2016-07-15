@@ -23,3 +23,6 @@ More information can be found here : https://en.wikipedia.org/wiki/Rubber_duck_d
 
 Where can I hire my own duck?
 Great question! Github or Amazon hosts a wide selection of affordable ducks that have graduated with a technical degree from some of the world's leading universities.
+
+
+![screenshot](https://github.com/kennybatista/OSXRubberDucky/blob/master/image.png)
