@@ -1,4 +1,4 @@
-#How to use Rubber Ducky 
+#How to use Rubber Ducky: 
 
 Step 1) Download, Beg, borrow, steal, buy, fabricate or otherwise obtain a rubber duck 
 
