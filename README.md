@@ -40,5 +40,5 @@ Great question! Github or Amazon hosts a wide selection of affordable ducks that
 
 | To work on |
 | -------------------- | 
-| We have to fix and display the icon in the status bar instead of a black cube |
+| We need to add a ducky icon instead of a star |
 
