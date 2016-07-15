@@ -41,4 +41,5 @@ Great question! Github or Amazon hosts a wide selection of affordable ducks that
 | To work on |
 | -------------------- | 
 | We need to add a ducky icon instead of a star |
+| Make rubber ducky stay after quitting xcode |
 
