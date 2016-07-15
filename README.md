@@ -1,4 +1,4 @@
-
+#How to use Rubber Ducky 
 
 Step 1) Download, Beg, borrow, steal, buy, fabricate or otherwise obtain a rubber duck 
 
@@ -12,7 +12,7 @@ Note: In a pinch a coworker might be able to substitute for the duck, however, i
 
 Original Steps Credit: ~Andy from lists.ethernal.org
 
-FAQ
+#FAQ
 
 
 If duck's are so smart, why don't we just let the ducks do all the work?
