@@ -6,7 +6,7 @@ Step 2) Place rubber duck on status bar/desk and inform it you are just going to
 
 Step 3) Explain to the duck what your code is supposed to do, and then go into detail and explain your code line by line
 
-Step 4) At some point you will tell the duck what you are doing next and then realise that that is not in fact what you are actually doing. The duck will sit there serenely, happy in the knowledge that it has helped you on your way.
+Step 4) At some point you will tell the duck what you are doing next and then realize that is not in fact what you are actually doing. The duck will sit there serenely, happy in the knowledge that it has helped you on your way.
 
 Note: In a pinch a coworker might be able to substitute for the duck, however, it is often prefered to confide mistakes to the duck instead of your coworker.
 
