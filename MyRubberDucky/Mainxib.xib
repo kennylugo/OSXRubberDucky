@@ -13,14 +13,21 @@
         <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
         <customObject id="-3" userLabel="Application" customClass="NSObject"/>
         <customView id="c22-O7-iKe">
-            <rect key="frame" x="0.0" y="0.0" width="480" height="272"/>
+            <rect key="frame" x="0.0" y="0.0" width="500" height="500"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
             <subviews>
-                <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gpC-bJ-88G">
-                    <rect key="frame" x="99" y="0.0" width="282" height="272"/>
+                <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="gpC-bJ-88G">
+                    <rect key="frame" x="0.0" y="0.0" width="500" height="500"/>
                     <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyDown" image="rubberduckyimage" id="3nH-e4-Xrr"/>
                 </imageView>
             </subviews>
+            <constraints>
+                <constraint firstItem="gpC-bJ-88G" firstAttribute="top" secondItem="c22-O7-iKe" secondAttribute="top" id="HJZ-bU-hNH"/>
+                <constraint firstAttribute="trailing" secondItem="gpC-bJ-88G" secondAttribute="trailing" id="YRK-wn-Nyh"/>
+                <constraint firstItem="gpC-bJ-88G" firstAttribute="leading" secondItem="c22-O7-iKe" secondAttribute="leading" id="ZE7-M5-hgK"/>
+                <constraint firstAttribute="bottom" secondItem="gpC-bJ-88G" secondAttribute="bottom" id="snD-Pe-9DI"/>
+            </constraints>
+            <point key="canvasLocation" x="20" y="92"/>
         </customView>
     </objects>
     <resources>
